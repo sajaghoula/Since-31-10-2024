@@ -23,7 +23,7 @@ h1 {
 #daysCounter {
   margin-top: 15px;
   font-size: 1.3em;
-  color: #b84b6f;
+  color: #9e0035;
 }
 
 section {
@@ -35,20 +35,20 @@ section {
 .timeline .event {
   margin: 20px 0;
   padding: 15px;
-  border-left: 3px solid #d48aa3;
+  border-left: 3px solid #da3838;
   text-align: left;
 }
 
 .timeline span {
   font-weight: bold;
-  color: #b84b6f;
+  color: #9e0035;
 }
 
 .btn {
   display: inline-block;
   margin: 40px 0;
   padding: 12px 25px;
-  background: #d48aa3;
+  background: #da3838;
   color: white;
   text-decoration: none;
   border-radius: 25px;
@@ -88,7 +88,7 @@ section {
 
 .event-card h3 {
   margin-top: 0;
-  color: #ff5c8a;
+  color: #ee1313;
 }
 
 .event-card p {
@@ -108,7 +108,7 @@ section {
   margin-top: 10px;
   font-size: 1.2rem;
   font-weight: 500;
-  color: #ff5c8a; /* soft romantic pink */
+  color: #ee1313; /* soft romantic pink */
 }
 
 /* add a subtle difference for days apart */
@@ -140,7 +140,7 @@ section {
 }
 
 .adventure-card h3 {
-  color: #ff5c8a;
+  color: #ee1313;
   margin-bottom: 10px;
 }
 
@@ -195,7 +195,7 @@ section {
 }
 
 .adventures-column h3 {
-  color: #ff5c8a;
+  color: #ee1313;
   margin-bottom: 15px;
   text-align: center;
 }
@@ -264,7 +264,7 @@ section {
 
 
 .adventure-card h4 {
-  color: #ff5c8a;
+  color: #ee1313;
   font-size: 1rem;
   margin-bottom: 0;
 }
@@ -308,7 +308,7 @@ section {
   width: 3px;
   top: 0;
   bottom: 0;
-  background: linear-gradient(#ffb6c1, #ff5c8a);
+  background: linear-gradient(#ffb6c1, #ee1313);
   transform: translateX(-50%);
   border-radius: 5px;
 }
@@ -336,10 +336,10 @@ section {
   left: 50%;
   width: 16px;
   height: 16px;
-  background: #ff5c8a;
+  background: #ee1313;
   border-radius: 50%;
   transform: translateX(-50%);
-  box-shadow: 0 0 15px rgba(255,92,138,0.6);
+  box-shadow: 0 0 15px rgba(240, 14, 78, 0.6);
 }
 
 .event-card img {
